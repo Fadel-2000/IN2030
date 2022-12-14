@@ -1,0 +1,3 @@
+Trace line 1: else: ...
+Trace line 3: Call function print with params ['999']
+Trace line 3: None

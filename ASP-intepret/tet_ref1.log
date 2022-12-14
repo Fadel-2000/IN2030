@@ -1,0 +1,13 @@
+Trace line 1: v = 7
+Trace line 2: def a
+Trace line 5: Call function a with params [10]
+Trace line 3: h = 1
+Trace line 4: return 18
+Trace line 5: k = 18
+Trace line 6: Call function print with params [18]
+Trace line 6: None
+Trace line 8: def k
+Trace line 11: Call function k with params [10, 20, 30]
+Trace line 9: Call function print with params [60]
+Trace line 9: None
+Trace line 11: None

@@ -1,0 +1,10 @@
+Trace line 1: fruits = ['apple', 'banana', 'cherry']
+Trace line 2: for #1: fruit = 1
+Trace line 3: x = 'apple'
+Trace line 2: suite
+Trace line 2: for #2: fruit = 2
+Trace line 3: x = 'banana'
+Trace line 2: suite
+Trace line 2: for #3: fruit = 3
+Trace line 3: x = 'cherry'
+Trace line 2: suite
